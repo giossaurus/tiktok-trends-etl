@@ -95,7 +95,7 @@ Esse projeto usa uma `gcp_key.json` (não incluída no repositório) para se con
 
 **Giovanni Della Déa**  
 Desenvolvedor em transição para ciência de dados  
-📫 [LinkedIn](https://www.linkedin.com/in/seuperfil) • [GitHub](https://github.com/giossaurus)
+📫 [LinkedIn](https://www.linkedin.com/in/giodelladea) • [GitHub](https://github.com/giossaurus)
 
 ---
 
